@@ -1,0 +1,30 @@
+~01~Boston fern   ~Foliage   ~$14.99
+~02~Pothos        ~Foliage   ~$14.99
+~03~Lipstick plant~Foliage   ~$14.99
+~04~Petunias      ~Flowering ~$17.99
+~05~Verbena       ~Flowering ~$17.99
+~06~Sweet alyssum ~Flowering ~$17.99
+~07~Bok Choy      ~Vegetable ~$15.99
+~08~Chili Plants  ~Vegetable ~$15.99
+~09~Radish        ~Vegetable ~$15.99
+~10~Sempervivum   ~Succulents~$18.99
+~11~Sedum         ~Succulents~$18.99
+~12~Rhipsalis     ~Succulents~$18.99
+~13~Chives        ~Herbs     ~$13.99
+~14~Oregano       ~Herbs     ~$13.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+foliage flowering vegetable succulent herb 
